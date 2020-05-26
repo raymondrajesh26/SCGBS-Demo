@@ -7,3 +7,5 @@
  
  This is same file User-A has modified now
 >>>>>>> 372e6a52f9416e5b30dc9caa5c192734a0bbc213
+
+This line has been added for Stash command
